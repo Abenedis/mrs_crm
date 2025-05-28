@@ -3,9 +3,7 @@ import './globals.css'
 import { ToasterProvider } from './toaster-provider'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'Dentak CRM',
 }
 
 export default function RootLayout({
